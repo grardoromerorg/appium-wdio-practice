@@ -16,6 +16,7 @@ describe('Android Elements Tests', () => {
     it('Find Element By Class Name', async () => {
 
         //find element by class name >>>>>> single $ symbol returns the first element
+        //test comment
         const className = await $('android.widget.TextView');
 
         //print text

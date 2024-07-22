@@ -1,4 +1,2 @@
-# appium-wdio-automationpractice
-# appium-wdio-automationpractice
-# appium-wdio-automationpractice
 # appium-wdio-practice
+TEST mobile automation suite
